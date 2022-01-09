@@ -15,9 +15,11 @@ ul{
     margin: 0;
     padding: 0;
 }
+html{
 
-body {
     position: relative;
+}
+body {
     
 direction: rtl;
 text-align: right;
